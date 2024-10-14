@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end development with a very user friendly Ui
 - 🌱 I’m currently learning HTML5, CSS3 and JS
 - 💞️ I’m looking to collaborate on nothing yet still finna stand firm on the basics
-- 📫 How to reach me @nanxjag On IG
+- 📫 How to reach me @kingjagzz On IG
 
 <!---
 JAG-Ai/JAG-Ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
